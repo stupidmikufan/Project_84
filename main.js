@@ -84,7 +84,7 @@ function numberkey()
 }
 function arrowkey()
 {
-	img_image= "Arr.png";
+	img_image= "Arrkey.png";
 	document.getElementById("d1").innerHTML = "You pressed Arrow Key";
     add();
 }
